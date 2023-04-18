@@ -1,0 +1,7 @@
+.typesPayment-group{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.label-warning{
+    background-color: var(--color-warning);
+}

@@ -1,0 +1,14 @@
+.btn-next{
+    background-color: var(--color-sucess);
+    color: var(--color-white);
+    border: 1px solid var(--color-black);
+    border-radius: 4px;
+    display: flex;
+    padding: 6px 12px;
+    background-image: linear-gradient(to bottom,#5cb85c 0,#419641 100%);
+    background-repeat: repeat-x;
+    border-color: #3e8f3e
+}
+.btn-next:hover{
+    background-color: #419641;
+}
